@@ -62,7 +62,7 @@ constraint_num=0
 #offspring_num = 20
 population_size= 50
 gen_num = 50
-samples_per_family=30
+samples_per_family=50
 
 # bounds
 j_min = 0
