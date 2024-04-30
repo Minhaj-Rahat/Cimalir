@@ -1,6 +1,6 @@
 # Cimalir
 This repo contains the implementation code for ["CIMALIR: Cross-Platform IoT Malware Clustering
-using Intermediate Representation"](https://ieeexplore.ieee.org/abstract/document/10427663) published in IEEE CCWC 2024. If you use this work please cite the paper.
+using Intermediate Representation"](https://ieeexplore.ieee.org/abstract/document/10427663) published in IEEE CCWC 2024. 
 # Documentation
 - Create an object for MalAnalyzer class, specify the Ghidra headless executable path
 - Check whether any binary is packed using *check_upx_packer()* and unpack those binaries
