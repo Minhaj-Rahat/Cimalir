@@ -7,7 +7,7 @@ rule string_match {
 
     meta:
         author = "anonymous_X"
-        description = "String Match to Compare Operaional Similarity"
+        description = "String Match to Compare Families"
         version = "1.0"
     strings:
         $s1 = "NICK"
